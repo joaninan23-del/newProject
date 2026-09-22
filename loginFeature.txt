@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 yelloooo line added by main
+=======
+login feature addition
+>>>>>>> loginFeature
 This is my login feature
